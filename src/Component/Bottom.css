@@ -1,0 +1,10 @@
+.bottom { 
+    background-color:rgb(43, 231, 109);
+    height: 49%;
+    width: 49.9%;
+    display: flex;
+    flex-flow: row wrap;
+  
+    
+    
+}

@@ -1,0 +1,20 @@
+.profilename { 
+    background-color:rgb(43, 231, 109);
+    height: 19.5%;
+    width: 50%;
+    border-style: solid;
+    border-top: 0mm;
+    border-left: 0mm;
+    border-bottom: 0mm;
+    font-size: xx-large;
+    align-content:center;
+    
+    
+}
+
+.editbutton{
+    
+    float: right;
+    margin-bottom: 30px;
+ 
+ }

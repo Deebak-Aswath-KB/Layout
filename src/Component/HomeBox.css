@@ -1,0 +1,10 @@
+.homebox { 
+    background-color:plum;
+    border-style: solid;
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+
+
+}
+
