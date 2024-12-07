@@ -1,0 +1,20 @@
+.profilelogo { 
+    background-color:white;
+    height: calc(80vh - 4px);
+    width:calc(100% - 4px);
+    border: solid; 
+    align-items: start; 
+    justify-content: start;
+}
+img{
+    height: 70%;
+    width: 100%;
+    object-fit: contain;  
+}
+
+.button{
+    float: right;
+    padding: bottom 10px;
+}
+
+

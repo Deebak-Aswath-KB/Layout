@@ -1,0 +1,14 @@
+.top { 
+    background-color:rgb(43, 231, 109);
+    border: solid;
+    height:calc(25vh - 4px);
+    width: calc(100% - 4px);
+    font-size: xx-large;
+    align-content: start;
+    text-align: center;
+
+   
+  
+    
+    
+}

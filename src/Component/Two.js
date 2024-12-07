@@ -5,7 +5,7 @@ import './Two.css';
 function Two() {
     return(
         <Box className="two">
-           Bottom 
+           <p>Bottom </p>
         </Box>
     );
 }

@@ -5,7 +5,7 @@ import './Three.css';
 function Three() {
     return(
         <Box className="three">
-         Bottom right   
+         <p>Bottom right</p>   
         </Box>
     );
 }

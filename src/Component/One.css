@@ -1,9 +1,11 @@
 .one { 
     background-color:yellow;
-    height: 100%;
+    height: calc(100%-4px);
     width: 34%; 
     text-align: left; 
-    font-size: x-large;
+    font-size: large;
+    border: 2px solid;
+    border-right: 0px;
     
     
 }

@@ -1,12 +1,10 @@
 .profilename { 
-    background-color:rgb(43, 231, 109);
-    height: 19.5%;
-    width: 50%;
-    border-style: solid;
-    border-top: 0mm;
-    border-left: 0mm;
-    border-bottom: 0mm;
+    border: solid;
+    background-color:#2be76d;
+    height: calc(20vh - 4px);
+    width: calc(100% - 4px);
     font-size: xx-large;
+    justify-items: center;
     align-content:center;
     
     

@@ -1,6 +1,8 @@
 .three { 
     background-color: yellow;
-    height: 100%;
+    border: solid;
+    border-left: 0px;
+    height: calc(100%-4px);    
     width: 32%;
     font-size:x-large;
     text-align: right;

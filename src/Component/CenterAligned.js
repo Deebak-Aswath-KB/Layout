@@ -5,7 +5,7 @@ import './CenterAligned.css';
 function CenterAligned() {
     return(
         <Box className="centeraligned">
-            CenterAligned
+            <p>Center Aligned</p>
         </Box>
     );
 }

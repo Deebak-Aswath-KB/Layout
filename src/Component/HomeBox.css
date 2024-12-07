@@ -1,10 +1,12 @@
-.homebox { 
-    background-color:plum;
-    border-style: solid;
-    height: 100%;
-    display: flex;
-    flex-flow: column wrap;
-
-
+*{
+    margin: 0; 
 }
-
+.homebox { 
+    background-color:rgb(232, 17, 17);
+    width:100 auto;
+    height: 100vh auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

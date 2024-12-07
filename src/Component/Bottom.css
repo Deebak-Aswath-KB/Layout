@@ -1,10 +1,9 @@
 .bottom { 
     background-color:rgb(43, 231, 109);
-    height: 49%;
-    width: 49.9%;
+    height:50vh;
+    width: 100%;
     display: flex;
     flex-flow: row ;
-  
     
     
 }

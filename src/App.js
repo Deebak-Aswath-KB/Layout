@@ -1,11 +1,9 @@
-import './App.css';
-import Parent from './Component/Parent';
+import React from 'react';
+import HomeBox from './Component/HomeBox';
 
 function App() {
   return (
-    <div className="App">
-      <Parent></Parent>
-    </div>
+    <HomeBox/>
   );
 }
 

@@ -9,7 +9,7 @@ function ProfileName() {
           
             <EditIcon className='editbutton'></EditIcon>
           
-            ProfileName
+            <p>Profile Name</p>
             
         </Box>
     );

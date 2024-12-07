@@ -1,11 +1,13 @@
 .two { 
     background-color:purple;
-    height: 100%;
+    border: solid;
+    height: calc(100%-4px);
     width: 34%;
-    border-right-style: solid;
-    border-left-style: solid ;
     align-content:end;
-    font-size: x-large;
+    justify-items: center;
+    font-size:x-large;
+
+
     
     
    
